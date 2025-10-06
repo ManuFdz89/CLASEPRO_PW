@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Este es la segunda linea programa\n\n"); // si ponemos \n agregamos tantos saltos de linea como queramos
         //todas las lineas de java terminan en punto y coma.
 
+//todo esto esta por hacer
 
 
     }
