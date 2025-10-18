@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="935ae958-5102-462a-9a83-e8ec2ade9afd" name="Changes" comment="" />
+    <list default="true" id="b1e7aa0c-a708-41b0-86b3-6f9f417e5d02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeclCons.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,14 +28,14 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="34FG0qM37o0LEu5dvLu5T4gmQuJ" />
+  <component name="ProjectId" id="34FKMIgShgdVM6bENR6F2IJiaT2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ejercicio5.executor": "Run",
+    "Application.DeclCons.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -41,11 +46,11 @@
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="935ae958-5102-462a-9a83-e8ec2ade9afd" name="Changes" comment="" />
-      <created>1760801687101</created>
+      <changelist id="b1e7aa0c-a708-41b0-86b3-6f9f417e5d02" name="Changes" comment="" />
+      <created>1760803833318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760801687101</updated>
+      <updated>1760803833318</updated>
     </task>
     <servers />
   </component>
