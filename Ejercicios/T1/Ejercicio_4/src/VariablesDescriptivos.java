@@ -1,6 +1,6 @@
 public class VariablesDescriptivos {
     
-    static public void main(String[] args){
+    public static void main(String[] args){
 
         String titulo = "Harry Potter y la piedra filosofal";
         String autor = "J. K. Rowling";

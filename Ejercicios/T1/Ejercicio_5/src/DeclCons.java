@@ -1,6 +1,6 @@
 public class DeclCons {
 
-    static public void main(String[] args) {
+    public static void main(String[] args) {
 
         final String APLICACION = "MiApp"; // usamos final delante de la variable para que sea constante (no mutable)
         final String VERSION = "1.0.0"; // nombre de las variables no mutable en mayuscula

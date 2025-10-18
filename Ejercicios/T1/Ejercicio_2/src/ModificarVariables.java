@@ -1,6 +1,6 @@
 public class ModificarVariables {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         int puntuacion = 0;
         System.out.println("Puntuación inicial: "+puntuacion);

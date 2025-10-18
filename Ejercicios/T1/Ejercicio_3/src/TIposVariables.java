@@ -1,6 +1,6 @@
 public class TIposVariables {
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
 
         String nombre = "Manuel";
         int edad = 35;
